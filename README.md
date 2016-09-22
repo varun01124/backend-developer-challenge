@@ -48,12 +48,12 @@ Timeline & deliverables
 You have up to a week to complete this task and provide a link to a Github repository including the code.
 You can get extra points by showing your progress in git commit history.
 
-Example pages
+Example input
 -------------
 
-Stagelink 305736219467790
-Die Lochis 249403588440524
-Escaperoom.nl 107840939393927
+305736219467790,10
+249403588440524,10
+107840939393927,15
 
 Useful resources
 ----------------
