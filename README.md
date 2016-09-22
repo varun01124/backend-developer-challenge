@@ -1,5 +1,5 @@
-Backend Developer programming challenge
-=======================================
+Stagelink Backend Developer programming challenge
+=================================================
 
 Introduction
 -----------
