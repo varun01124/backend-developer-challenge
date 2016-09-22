@@ -51,9 +51,9 @@ You can get extra points by showing your progress in git commit history.
 Example input
 -------------
 
-305736219467790,10
-249403588440524,10
-107840939393927,15
+305736219467790,10  
+249403588440524,10  
+107840939393927,15  
 
 Useful resources
 ----------------
