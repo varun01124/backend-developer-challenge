@@ -37,8 +37,10 @@ user_id, page_id, post_id, post_type, interaction_type [, interaction_subtype]
 Example rows for my reaction and comment on the following Stagelink post would be
 https://www.facebook.com/Stagelink/posts/1172918952749508
 
+```
 1278167270,305736219467790,1172918952749508,video,reaction,HAHA
 1278167270,305736219467790,1172918952749508,video,comment
+```
 
 To complete the task you are required to list likes and comments. Photo tags are optional and you get extra points for implementing that.
 
@@ -51,9 +53,11 @@ You can get extra points by showing your progress in git commit history.
 Example input
 -------------
 
-305736219467790,10  
-249403588440524,10  
-107840939393927,15  
+```
+305736219467790,10 
+249403588440524,10 
+107840939393927,15
+```
 
 Useful resources
 ----------------
